@@ -64,6 +64,6 @@ end
 
 gem "devise", "~> 4.9"
 
-gem "aws-sdk-s3", "~> 1.176", require: false
+gem "aws-sdk-s3", "~> 1.179", require: false
 
 gem "image_processing", "~> 1.13"
